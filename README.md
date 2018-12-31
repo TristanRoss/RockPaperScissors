@@ -1,0 +1,1 @@
+"Rock Paper Scissors" with JavaScript only. Uses loops, functions, nesting, comparisons, and more.
